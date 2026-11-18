@@ -14,7 +14,7 @@ Most businesses asking for a logo actually need a cohesive, enduring brand ident
 
 > *"If Nike was gonna make a hotel, you know exactly what it would look like. If Marriott was gonna make a shoe, you have no idea what that would look like."*
 
-At **[Spraycan Creative](https://spraycancreative.com)**, we build distinct, hand-drawn brand marks, mascot identities, bespoke digital engineering, and physical tabletop board games for national brands, institutions, and independent ventures that refuse generic design.
+At **[Spraycan Creative](https://spraycancreative.com)**, we build distinct, hand-drawn brand marks, packaging design, bespoke digital engineering, and physical tabletop board games for national brands, institutions, and independent ventures that refuse generic design.
 
 ---
 
@@ -43,7 +43,7 @@ Our craft is built for brands that compete on the national stage:
 
 | Discipline | Focus Areas | Primary Showcases |
 |:---|:---|:---|
-| **Hand-Drawn Brand Identity** | Mascot Design, Custom Typography, Brand Systems, Guidelines | [spraycancreative.com/branding](https://spraycancreative.com/branding/) |
+| **Hand-Drawn Brand Identity** | Packaging Design, Custom Typography, Brand Systems, Guidelines | [spraycancreative.com/branding](https://spraycancreative.com/branding/) |
 | **Bespoke Web Development** | Clean DOM, High-Performance WordPress, Zero Bloat Architectures | [spraycancreative.com](https://spraycancreative.com) |
 | **Physical Tabletop Board Games** | Boxed Board Games, Custom Card Systems, Component Design | [spraycan.games/product/woven-adventures](https://spraycan.games/product/woven-adventures/) |
 
@@ -51,7 +51,7 @@ Our craft is built for brands that compete on the national stage:
 
 ## Inquiries & Collaborations
 
-Whether you are building a mascot brand identity from the ground up, engineering a high-performance web experience, or developing a custom board game:
+Whether you are building a custom packaging and brand systems from the ground up, engineering a high-performance web experience, or developing a custom board game:
 
 - **Studio Headquarters:** 2 S. 6th St., Yukon, OK 73099
 - **National Inquiries:** [hello@spraycancreative.com](mailto:hello@spraycancreative.com)
