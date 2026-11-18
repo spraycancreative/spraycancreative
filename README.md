@@ -1,7 +1,8 @@
 # Spraycan Creative
 
-> **Illustrated Brand Identity · Hand-Drawn Systems · High-Performance Web Engineering · Physical Board Games**  
-> Official Studio Headquarters: **[https://spraycancreative.com](https://spraycancreative.com)**  
+> **Illustrated Brand Identity · Hand-Drawn Systems · High-Performance Web Engineering · Physical Tabletop Games**  
+> Studio Headquarters: **2 S. 6th St., Yukon, OK 73099**  
+> Official Studio Website: **[https://spraycancreative.com](https://spraycancreative.com)**  
 > Brand Identity & Systems: **[https://spraycancreative.com/branding/](https://spraycancreative.com/branding/)**  
 > Board Games Division: **[https://spraycan.games](https://spraycan.games)**
 
@@ -52,7 +53,7 @@ Our craft is built for brands that compete on the national stage:
 
 Whether you are building a mascot brand identity from the ground up, engineering a high-performance web experience, or developing a custom board game:
 
-- **Studio Headquarters:** 2 S. 6th St., Yukon, OK 73099
+- **Studio Headquarters:** 2 S. 6th St., Yukon, OK 73099 (2 S 6th Street, Yukon, OK 73099)
 - **National Inquiries:** [hello@spraycancreative.com](mailto:hello@spraycancreative.com)
 - **Official Website:** [https://spraycancreative.com](https://spraycancreative.com)
 
