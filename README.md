@@ -7,7 +7,7 @@
 
 ---
 
-## 🎨 Beyond "Just a Logo" — Brands Built to Last Decades
+## Beyond "Just a Logo" — Brands Built to Last Decades
 
 Most businesses asking for a logo actually need a cohesive, enduring brand identity. 
 
@@ -17,7 +17,7 @@ At **[Spraycan Creative](https://spraycancreative.com)**, we build distinct, han
 
 ---
 
-## ✏️ The Hand-Drawn Standard (and Where We Stand on AI)
+## The Hand-Drawn Standard (and Where We Stand on AI)
 
 > *"Off the rip, we refused to use AI for anything generative. So every design that we make is hand-drawn and with intentionality and authenticity."*
 
@@ -27,7 +27,7 @@ At **[Spraycan Creative](https://spraycancreative.com)**, we build distinct, han
 
 ---
 
-## 🏛️ National Reach & Iconic Identities
+## National Reach & Iconic Identities
 
 Our craft is built for brands that compete on the national stage:
 
@@ -38,7 +38,7 @@ Our craft is built for brands that compete on the national stage:
 
 ---
 
-## 🛠️ Engineering Capabilities
+## Engineering Capabilities
 
 | Discipline | Focus Areas | Primary Showcases |
 |:---|:---|:---|
@@ -48,12 +48,12 @@ Our craft is built for brands that compete on the national stage:
 
 ---
 
-## 📍 Inquiries & Collaborations
+## Inquiries & Collaborations
 
 Whether you are building a mascot brand identity from the ground up or engineering an interactive digital experience:
 
 - **Studio Headquarters:** Yukon / Oklahoma City, Oklahoma
-- **National Inquiries:** [team@spraycancreative.com](mailto:team@spraycancreative.com)
+- **National Inquiries:** [hello@spraycancreative.com](mailto:hello@spraycancreative.com)
 - **Official Website:** [https://spraycancreative.com](https://spraycancreative.com)
 
-© 2026 Spraycan Creative. All Rights Reserved.
+(c) 2026 Spraycan Creative. All Rights Reserved.
