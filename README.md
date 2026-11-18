@@ -1,9 +1,9 @@
 # Spraycan Creative
 
-> **Illustrated Brand Identity · Hand-Drawn Systems · Digital Experience Engineering**  
+> **Illustrated Brand Identity · Hand-Drawn Systems · High-Performance Web Engineering · Physical Board Games**  
 > Official Studio Headquarters: **[https://spraycancreative.com](https://spraycancreative.com)**  
 > Brand Identity & Systems: **[https://spraycancreative.com/branding/](https://spraycancreative.com/branding/)**  
-> Interactive Gaming Division: **[https://spraycan.games](https://spraycan.games)**
+> Board Games Division: **[https://spraycan.games](https://spraycan.games)**
 
 ---
 
@@ -13,7 +13,7 @@ Most businesses asking for a logo actually need a cohesive, enduring brand ident
 
 > *"If Nike was gonna make a hotel, you know exactly what it would look like. If Marriott was gonna make a shoe, you have no idea what that would look like."*
 
-At **[Spraycan Creative](https://spraycancreative.com)**, we build distinct, hand-drawn brand marks, mascot identities, and bespoke digital experiences designed for national brands, institutions, and high-growth ventures that refuse generic design.
+At **[Spraycan Creative](https://spraycancreative.com)**, we build distinct, hand-drawn brand marks, mascot identities, bespoke digital engineering, and physical tabletop board games for national brands, institutions, and independent ventures that refuse generic design.
 
 ---
 
@@ -34,23 +34,23 @@ Our craft is built for brands that compete on the national stage:
 - **Athletic & University Heritage:** Designing marks and identities that travel across campus cultures and athletic programs across the country.
 - **Lasting Community Legacy (Atoka Wampus Cat):** Honoring generational history while creating marks that communities rally behind for the next 20 to 30 years.
 - **Authentic Brand Lore (Mothy Off-Road):** Creating original character marks and cryptid lore—like the Mothy Man—built from the ground up for rugged national outdoor gear.
-- **Interactive Narrative Engineering ([Woven Adventures](https://spraycan.games/play/)):** Engineering rich, bespoke digital card engines and physical tabletop game experiences.
+- **Physical Tabletop Board Games ([Woven Adventures](https://spraycan.games)):** Designing, illustrating, and producing physical boxed tabletop board games and custom card editions (featuring an interactive web sampler at [spraycan.games/play](https://spraycan.games/play/)).
 
 ---
 
-## Engineering Capabilities
+## Studio Capabilities
 
 | Discipline | Focus Areas | Primary Showcases |
 |:---|:---|:---|
 | **Hand-Drawn Brand Identity** | Mascot Design, Custom Typography, Brand Systems, Guidelines | [spraycancreative.com/branding](https://spraycancreative.com/branding/) |
 | **Bespoke Web Development** | Clean DOM, High-Performance WordPress, Zero Bloat Architectures | [spraycancreative.com](https://spraycancreative.com) |
-| **Interactive Applications** | Digital Tabletop Games, 2D/3D Box Unboxing, Dynamic Narrative Engines | [spraycan.games/play](https://spraycan.games/play/) |
+| **Physical Tabletop Board Games** | Boxed Board Games, Custom Card Systems, Component Design | [spraycan.games/product/woven-adventures](https://spraycan.games/product/woven-adventures/) |
 
 ---
 
 ## Inquiries & Collaborations
 
-Whether you are building a mascot brand identity from the ground up or engineering an interactive digital experience:
+Whether you are building a mascot brand identity from the ground up, engineering a high-performance web experience, or developing a custom board game:
 
 - **Studio Headquarters:** Yukon / Oklahoma City, Oklahoma
 - **National Inquiries:** [hello@spraycancreative.com](mailto:hello@spraycancreative.com)
